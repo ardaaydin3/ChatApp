@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/main_find_friends_option"
+        android:title="Kişi Bul"
+        app:showAsAction="never"
+        android:itemBackground="@drawable/edit_profile"
+        ></item>
+
+    <item
+        android:id="@+id/main_create_group_option"
+        android:title="Grup Kur"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/main_setting_option"
+        android:title="Ayarlar"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Çıkış"
+        app:showAsAction="never"></item>
+
+
+</menu>

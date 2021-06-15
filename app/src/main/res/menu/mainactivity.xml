@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/chats"
+        android:icon="@drawable/chat"
+        android:title="Chat"></item>
+
+    <item
+        android:id="@+id/groups"
+        android:icon="@drawable/group"
+        android:title="Gruplar"></item>
+
+    <item
+        android:id="@+id/contacts"
+        android:icon="@drawable/contact"
+        android:title="Kişiler"></item>
+
+
+</menu>

@@ -1,0 +1,275 @@
+{
+  "project_info": {
+    "project_number": "633813971254",
+    "firebase_url": "https://deneme-30c18-default-rtdb.firebaseio.com",
+    "project_id": "deneme-30c18",
+    "storage_bucket": "deneme-30c18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633813971254:android:d47ca08aa195c81d934397",
+        "android_client_info": {
+          "package_name": "com.arda.aydin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB32QWXQV_Ci6SACoiiKG9E07DDB6a3s2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633813971254:android:f9ba1de784d8d4a4934397",
+        "android_client_info": {
+          "package_name": "com.arda.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB32QWXQV_Ci6SACoiiKG9E07DDB6a3s2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633813971254:android:793cc41079da4c26934397",
+        "android_client_info": {
+          "package_name": "com.example.androidchatappjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633813971254-mg3r97i3i3mqrc900b9lfoh4bjv6cg2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidchatappjava",
+            "certificate_hash": "09ac2edf0707e53992f1c5dcfc79a0355b14355b"
+          }
+        },
+        {
+          "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB32QWXQV_Ci6SACoiiKG9E07DDB6a3s2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633813971254:android:415853ec4c67ac89934397",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633813971254-djcs29thk1h5fa6n2qgr168cgoeo6tbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "09ac2edf0707e53992f1c5dcfc79a0355b14355b"
+          }
+        },
+        {
+          "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB32QWXQV_Ci6SACoiiKG9E07DDB6a3s2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633813971254:android:2016c62762617a51934397",
+        "android_client_info": {
+          "package_name": "com.github.h01d.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633813971254-rbp83jaog0fiis8t8gqggvg1v0ibohje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.h01d.chatapp",
+            "certificate_hash": "09ac2edf0707e53992f1c5dcfc79a0355b14355b"
+          }
+        },
+        {
+          "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB32QWXQV_Ci6SACoiiKG9E07DDB6a3s2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633813971254:android:c402229b9e8504bb934397",
+        "android_client_info": {
+          "package_name": "com.saharsh.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633813971254-g3mghag3upqgvj02ek35rhl1o7ona7hf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saharsh.chatapp",
+            "certificate_hash": "09ac2edf0707e53992f1c5dcfc79a0355b14355b"
+          }
+        },
+        {
+          "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB32QWXQV_Ci6SACoiiKG9E07DDB6a3s2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633813971254:android:8ba60d004210ea3a934397",
+        "android_client_info": {
+          "package_name": "com.techexpert.deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB32QWXQV_Ci6SACoiiKG9E07DDB6a3s2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633813971254:android:670e8e979cb216f4934397",
+        "android_client_info": {
+          "package_name": "com.techexpert.indianvaarta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB32QWXQV_Ci6SACoiiKG9E07DDB6a3s2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633813971254-ntd6uibun1m1t61bd1m04d3dkes60ekl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
